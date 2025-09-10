@@ -24,9 +24,9 @@ O relógio está correndo ⏰... será que você consegue programar uma soluçã
 Você deverá criar um pequeno projeto em **JavaScript** para calcular quanto tempo durou uma reunião.  
 
 
-#### Tem um exemplo de como deveria ficar meu App?
+#### Tem um exemplo de como deveria ficar minha página?
 
-Sim. O video abaixo ilustra como seu App deve mais ou menos ficar...
+Sim. O video abaixo ilustra como sua página deve mais ou menos ficar...
 
 https://github.com/user-attachments/assets/f6fac339-7646-430e-8cbe-bd96f8ac10d2
 
