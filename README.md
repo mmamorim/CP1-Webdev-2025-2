@@ -1,6 +1,6 @@
 ![](./fiap.png)
 
-# Web development 2024/2
+# Web development 2025/2
 
 | Checkpoint        | 1      | ```CURSO:```     | ENGENHARIA DE SOFTWARE |
 | ----------------- | ------ | ---------------- | ---------------------- |
@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/f6fac339-7646-430e-8cbe-bd96f8ac10d2
 
 1. Crie uma pasta chamada **`CP1-TempoReuniao`** contendo dois arquivos:  
    - **`index.html`** (interface para o usuário inserir os dados)  
-   - **`script.js`** (onde ficará a lógica em JavaScript)  
+   - **`main.js`** (onde ficará a lógica em JavaScript)  
 
 2. No **HTML**, prepare um formulário simples para o usuário digitar:  
    - Horário de **início da reunião**  
@@ -90,7 +90,7 @@ Caso deseje, o HTML descrito abaixo poderá ser usado como modelo:
 
 2. O arquivo javascript deve estar na mesma pasta do projeto e ser nomeado como ```main.js```.
 
-3. Seu programa javascript **não poderá converter** os horários em tipos como ```Date``` e **não poderá usar nenhuma biblioteca javascript de tempo**.
+3. Seu programa javascript **NÃO poderá converter** os horários em tipos como ```Date``` e **NÃO poderá usar nenhuma biblioteca javascript de tempo**.
 4. O resultado contendo o tempo de duração deve ser apresentado com ```horas : minutos``` com zero a esquerda caso as horas ou minutos sejam inferiores a 10.
    
 
