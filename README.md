@@ -28,7 +28,7 @@ Você deverá criar um pequeno projeto em **JavaScript** para calcular quanto te
 
 Sim. O video abaixo ilustra como seu App deve mais ou menos ficar...
 
-
+https://github.com/user-attachments/assets/f6fac339-7646-430e-8cbe-bd96f8ac10d2
 
 ## Requisitos  
 
